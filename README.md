@@ -1,6 +1,6 @@
-[!CAUTION]
-This project is still under development.
-It is not usable right now. 
+> [!CAUTION]
+> This project is still under development.
+> It is not usable right now. 
 
 //cspell:ignore GRBL LPKF Klipper langwadt MOSFET BLDC ntchris
 
