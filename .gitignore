@@ -1,9 +1,6 @@
 # For PCBs designed using KiCad: https://www.kicad.org/
 # Format documentation: https://kicad.org/help/file-formats/
 
-# Remove backup folder
-*/controller_board-backups/*
-
 # Temporary files
 *.000
 *.bak
@@ -37,6 +34,7 @@ fp-info-cache
 *.csv
 
 # Archived Backups (KiCad 6.0)
+**/*-backups
 **/*-backups/*.zip
 
 # Local project settings
