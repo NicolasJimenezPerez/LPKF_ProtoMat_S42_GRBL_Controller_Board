@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "PhoenixContact_MCV_0,5_6-G-2,5_THT")(type "KiCad")(uri "${KIPRJMOD}/lib/PhoenixContact_MCV_0,5_6-G-2,5_THT")(options "")(descr ""))
+  (lib (name "PhoenixContact_MCV_0,5_8-G-2,5_THT")(type "KiCad")(uri "${KIPRJMOD}/lib/PhoenixContact_MCV_0,5_8-G-2,5_THT")(options "")(descr ""))
+)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1881590
+D PCB header, nominal cross section: 0.5 mm?, color: green, nominal current: 4 A, rated voltage (III/2): 160 V, contact surface: Tin, type of contact: Male connector, Number of potentials: 6, Number of rows: 1, Number of positions per row: 6, number of connections: 6, product range: MCV 0,5/..-G, pitch: 2.5 mm, mounting: Wave soldering, pin layout: Linear pinning, solder pin [P]: 3.5 mm, Stecksystem: MICRO COMBICON - FK-MC 0,5, Locking: without, type of packaging: packed in cardboard
+K
+F http://www.phoenixcontact.com/de/produkte/1881590/pdf
+$ENDCMP
+#
+#End Doc Library
